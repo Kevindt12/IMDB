@@ -1,0 +1,24 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<script type="text/javascript">
+if (window.location.host != top.location.host) top.location.href = location.href;
+</script>
+<link rel="stylesheet" href="/fancybox/jquery.fancybox-1.3.1.css" type="text/css" media="screen" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/lite/style.css" />
+<link rel="SHORTCUT ICON" href="/favicon.ico" />
+<div id=playlist></div>
+<div style="position:absolute;top:1px;right:0;">
+<a id=plbutton href=#><img src=//img401.imageshack.us/img401/6301/starlist.png></a>
+<form id="cse-search-box" action="/search" method="get" onsubmit="if(this.q.value=='Search by title, actor, genre, etc.') return false;"> 
+	<input id="search" class="ignoreS" name="q" type="text" size="30" value="Search by title, actor, genre, etc."
+	onblur="if(this.value=='') this.value='Search by title, actor, genre, etc.';setTimeout(function(){$('#queries').fadeOut()},250);"
+	onfocus="if(this.value=='Search by title, actor, genre, etc.') this.value='';$('#queries').fadeIn();" />
+	<input id="searchbtn" type="image" src="//img580.imageshack.us/img580/4597/searcht.png" alt="Search" title="Search"/>
+	<input type="hidden" name="cx" value="010591583107216882486:bafpv02vxuq" />
+    <input type="hidden" name="cof" value="FORID:9" />
+    <input type="hidden" name="ie" value="UTF-8" />
+</form>
+</div>
+<a href="/" id=logo><img src="/images/logosmall.png"></a> 
+<div class='menu indent'><a href=/tv/added/1>TV Shows</a><b>Movies</b><a href=/music/added/1>Music</a><a href=/standup/added/1>Stand-Up</a><a href=/other/added/1>Other</a><a href=http://forum.icefilms.info>Forum</a><a href=http://www.icedivx.com/donate.php><font color=orange>Donate</font></a></div><div class='menu submenu'><a href=/movies/a-z/1>A-Z List</a><b>All Genres</b><a href=/movies/added/hd><font color=red>HD</font></a><a href=/movies/added/action>Action</a><a href=/movies/added/animation>Animation</a><a href=/movies/added/comedy>Comedy</a><a href=/movies/added/documentary>Documentary</a><a href=/movies/added/drama>Drama</a><a href=/movies/added/family>Family</a><a href=/movies/added/horror>Horror</a><a href=/movies/added/romance>Romance</a><a href=/movies/added/sci-fi>Sci-Fi</a><a href=/movies/added/thriller>Thriller</a></div><title>All Movies - Added - icefilms.info</title><div class='menu submenu2 left'><a href=/movies/popular/1>Popular</a><a href=/movies/rating/1>Rating</a><a href=/movies/release/1>Release</a><b>Added</b><a href=/rand.php?cat=movies&genre=1>Random</a></div><div style='margin:10px;'><h1>All Movies - Added </h1><span class="list"><h3>Added Today</h3><a name=i id=2382017></a><img class=star><a href=/ip.php?v=156345&>Undertaker: The Streak (2012)</a><br><a name=i id=1986857></a><img class=star><a href=/ip.php?v=156337&>Hijacked (2012)</a><b>HD</b><br><a name=i id=1795702></a><img class=star><a href=/ip.php?v=156336&>Wild Bill (2011)</a><b>HD</b><br><a name

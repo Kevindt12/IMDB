@@ -1,0 +1,7 @@
+c:\users\jali\documents\visual studio 2010\Projects\IMDB getter\IMDB getter\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jali\documents\visual studio 2010\Projects\IMDB getter\IMDB getter\bin\Debug\IMDB getter.exe
+c:\users\jali\documents\visual studio 2010\Projects\IMDB getter\IMDB getter\bin\Debug\IMDB getter.pdb
+c:\users\jali\documents\visual studio 2010\Projects\IMDB getter\IMDB getter\obj\x86\Debug\IMDB getter.exe
+c:\users\jali\documents\visual studio 2010\Projects\IMDB getter\IMDB getter\obj\x86\Debug\IMDB getter.pdb
+c:\users\jali\documents\visual studio 2010\Projects\IMDB getter\IMDB getter\bin\Debug\HtmlAgilityPack.dll
+c:\users\jali\documents\visual studio 2010\Projects\IMDB getter\IMDB getter\bin\Debug\HtmlAgilityPack.pdb
